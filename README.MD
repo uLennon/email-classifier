@@ -11,8 +11,6 @@
 
 Sistema inteligente de **classificação automática de emails** que utiliza **Processamento de Linguagem Natural (NLP)** e o algoritmo **Naive Bayes** para categorizar emails em **Produtivo** ou **Improdutivo**, sugerindo **respostas automáticas contextualizadas**.
 
-🔗 **Demo Online:** [Frontend](#) | [Backend API](#)
-
 ---
 
 ## 🎯 Funcionalidades
